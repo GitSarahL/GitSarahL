@@ -29,7 +29,7 @@
  
 <h2>🤳 Connect With Me:</h2>
 
-- <b>LinkedIn:https://www.linkedin.com/in/sarah-lluberes-6040241bb/ </b>
+- <b>LinkedIn: https://www.linkedin.com/in/sarah-lluberes-6040241bb/ </b>
 
 
  
