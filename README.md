@@ -1,5 +1,5 @@
 <h1>Hello, I'm Sarah! <br/><a 
->Cybersecurity Student</a>
+>Cybersecurity Enthusiast & Student</a>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
