@@ -4,10 +4,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Cloud Security </b>
-  - [Project1](https://github.com/GitSarahL/Project1) 
-- <b> Network Security </b>
-  - [Project2](https://github.com/GitSarahL/Project2)
+- <b>[AWS Identity and Access Management (IAM) Project](https://github.com/GitSarahL/Project1) </b>
+- <b>[Network Analysis Project](https://github.com/GitSarahL/Project2)</b>
+  
   
  
 <h2>📃 Certifications:</h2>
