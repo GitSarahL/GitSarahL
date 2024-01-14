@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[AWS Identity and Access Management (IAM) Project](https://github.com/GitSarahL/Project1) </b>
-- <b>[Network Analysis Project](https://github.com/GitSarahL/Project2)</b>
+- <b>[SIEM Home Lab Project](https://github.com/GitSarahL/Project2)</b>
   
   
  
