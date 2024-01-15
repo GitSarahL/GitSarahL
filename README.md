@@ -11,9 +11,9 @@
  
 <h2>📃 Certifications:</h2>
 
-- <b>CompTIA Security+ (Expected May 2024)</b>
+- <b>CompTIA Security+ (Expected March 2024)</b>
 
-- <b>ISC2 CC (Expected May 2024)</b>
+- <b>ISC2 CC (Expected March 2024)</b>
  
 <h2>🤳 Connect With Me:</h2>
 
