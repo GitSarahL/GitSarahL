@@ -13,7 +13,7 @@
 
 - <b>Qualys: Vulnerability Management Detection and Response (10/2023)</b>
 
-- <b>CompTIA Security+ (Expected May 2024)</b>
+- <b>CompTIA Security+ (In Progress)</b>
  
 <h2>🤳 Connect With Me:</h2>
 
